@@ -1,3 +1,6 @@
 [submodule "pages/lib"]
 	path = pages/lib
 	url = https://github.com/Bathiran21/lib.git
+[submodule "lib"]
+	path = lib
+	url = https://github.com/Bathiran21/lib.git
